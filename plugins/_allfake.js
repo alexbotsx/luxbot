@@ -37,14 +37,14 @@ handler.all = async function (m) {
     global.creador = 'Wa.me/51982004738'
     global.ofcbot = `${conn.user.jid.split('@')[0]}`
     global.asistencia = 'https://wa.me/51982004738'
-    global.namechannel = 'GHOSTBOT'
+    global.namechannel = 'BOTLUX'
 
     //Reacciones De Comandos.!
     global.rwait = '🕒'
     global.done = '✅'
     global.error = '✖️'
 
-    //Emojis determinado de GHOSTBOT
+    //Emojis determinado de BOTLUX
     global.emoji = '🍁'
     global.emoji2 = '⭐'
     global.emoji3 = '✨️'

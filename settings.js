@@ -44,23 +44,23 @@ global.libreria = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
-global.nameqr = 'GHOSTBOT'
-global.namebot = 'GHOSTBOT'
-global.sessions = 'GHOSTBOTSession'
+global.nameqr = 'BOTLUX'
+global.namebot = 'BOTLUX'
+global.sessions = 'BOTLUXSession'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'GHOSTBOT'
-global.botname = 'GHOSTBOT'
+global.packname = 'BOTLUX'
+global.botname = 'BOTLUX'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
-global.author = 'GHOSTBOT'
+global.author = 'BOTLUX'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = 'GHOSTBOT'
+global.textbot = 'BOTLUX'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/img/catalogo.jpg')
-global.GHOSTBOTurl = fs.readFileSync('./src/img/GHOSTBOT.jpg')
+global.BOTLUXurl = fs.readFileSync('./src/img/BOTLUX.jpg')
 global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
