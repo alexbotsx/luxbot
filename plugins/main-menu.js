@@ -39,7 +39,7 @@ const defaultMenu = {
 \t\t\t*BOTLUX  -  M E N U*
 `.trimStart(),
   header: '╭━〔 *%category* 〕━╮',
-  body: '│  ➔⭐◦ *%cmd*\n',
+  body: '│  ➔💜◦ *%cmd*\n',
   after: '',
 }
 
